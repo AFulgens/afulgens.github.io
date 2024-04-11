@@ -1,0 +1,154 @@
+site_name: YAB (Yet Another βlog)
+site_url: https://blog.kovacs.xyz
+site_description: Personal βlog
+
+repo_url: https://github.com/AFulgens/afulgens.github.io
+repo_name: "afulgens.github.io"
+
+nav:
+  - Blog:
+    - index.md
+  - About: about.md
+
+theme:
+  name: material
+  custom_dir: overrides
+  favicon: assets/beta-192x192.png
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tracking
+    - navigation.top
+    - toc.follow
+    - toc.integrate
+  font:
+    code: JetBrains Mono
+    text: Cabin
+  icon:
+    admonition:
+      abstract: fontawesome/solid/book
+      bug: fontawesome/solid/robot
+      danger: fontawesome/solid/skull
+      example: material/code-block-braces
+      failure: fontawesome/solid/bomb
+      info: fontawesome/solid/circle-info
+      note: fontawesome/solid/note-sticky
+      question: fontawesome/solid/circle-question
+      quote: fontawesome/solid/quote-left
+      success: fontawesome/solid/check
+      tip: fontawesome/solid/bullhorn
+      warning: fontawesome/solid/triangle-exclamation
+    annotation: material/information-slab-circle-outline
+    logo: material/beta
+    repo: fontawesome/brands/git-alt
+  language: en
+  palette: 
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+    - scheme: default
+      media: "(prefers-color-scheme: light)"
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+    - scheme: slate
+      media: "(prefers-color-scheme: dark)"
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to auto-mode (follow system preferences)
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.critic:
+      mode: view
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+
+  - blog:
+      archive_name: History
+      blog_dir: .
+      blog_toc: true
+      post_date_format: "YYYY, MMMM dd"
+      post_excerpt: required
+      post_readtime_words_per_minute: 200 # instead of 265
+  - mkdocs-nav-weight
+  - privacy
+  - search
+  - rss:
+      date_from_meta:
+        as_creation: "date"
+      match_path: "posts(/|\\\\).*"
+      pretty_print: true
+      url_parameters:
+        utm_source: "documentation"
+        utm_medium: "RSS"
+        utm_campaign: "feed-syndication"
+      use_git: false
+
+extra:
+#   alternate:
+#     - name: English
+#       link: /en/
+#       lang: en
+#     - name: Deutsch
+#       link: /de/
+#       lang: de
+#     - name: Hungarian
+#       link: /hu/
+#       lang: hu
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AFulgens
+extra_css:
+  - stylesheets/footer-consistency.css
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+extra_javascript:
+  - js/katex.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
