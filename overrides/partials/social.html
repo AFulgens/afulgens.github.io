@@ -38,13 +38,13 @@
 	</a>
 	<!-- PATCH END -->
 	{% for social in config.extra.social %}
-  
+
 	  <!-- Automatically set rel=me for Mastodon -->
 	  {% set rel = "noopener" %}
 	  {% if "mastodon" in social.icon %}
 		{% set rel = rel ~ " me" %}
 	  {% endif %}
-  
+
 	  <!-- Compute title and render link -->
 	  {% set title = social.name %}
 	  {% if not title and "//" in social.link %}
@@ -70,4 +70,3 @@
 		</svg>
 	</a>
   </div>
-  

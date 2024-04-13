@@ -3,7 +3,7 @@ site_url: https://blog.kovacs.xyz
 site_description: Personal βlog
 
 repo_url: https://github.com/AFulgens/afulgens.github.io
-repo_name: "afulgens.github.io"
+repo_name: "👀 @ GitHub"
 
 nav:
   - Blog:
@@ -49,7 +49,7 @@ theme:
     logo: material/beta
     repo: fontawesome/brands/git-alt
   language: en
-  palette: 
+  palette:
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-7
