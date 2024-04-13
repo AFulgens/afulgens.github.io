@@ -1,0 +1,20 @@
+name: Publish blog
+on:
+  push:
+    branches:
+      blog
+
+jobs:
+  publish:
+    name: Build & deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 'blog'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Deploy blog
+        uses: AFulgens/mkdocs-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CUSTOM_DOMAIN: blog.kovacs.xyz
