@@ -23,7 +23,7 @@ And I played a _lot_ of video games.
     There are neither beginnings nor endings to the Wheel of Time. But it was_ a _beginning.
     <p style="text-align: right;">— Robert Jordan</p>_
 
-Heroes of Might and Magic II[^1], III[^2], and IV[^3] were amongs them (so were The Settlers II[^4] and Theme Hospital[^5], but that’s besides the point).
+Heroes of Might and Magic II[^1], III[^2], and IV[^3] were amongst them (so were The Settlers II[^4] and Theme Hospital[^5], but that’s besides the point).
 
 Last year, there was a Kickstarter campaign for a HoMM3 Board Game[^6], where—if not for anything else, then for the nostalgia-factor—I did what I must: I have gone all-in.
 
