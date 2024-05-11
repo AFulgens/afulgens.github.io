@@ -143,6 +143,7 @@ extra:
 extra_css:
   - stylesheets/before-after.css
   - stylesheets/picture-admonition.css
+  - stylesheets/overrides.css
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
 extra_javascript:
   - js/before-after.js
