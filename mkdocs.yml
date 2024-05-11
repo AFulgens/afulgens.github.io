@@ -141,9 +141,11 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/AFulgens
 extra_css:
-  - stylesheets/footer-consistency.css
+  - stylesheets/before-after.css
+  - stylesheets/picture-admonition.css
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
 extra_javascript:
+  - js/before-after.js
   - js/katex.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js

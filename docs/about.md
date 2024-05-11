@@ -37,6 +37,13 @@ Additionally, a former version of MkDocs (or rather probably some dependency of 
 3. [a-acute](https://en.wikipedia.org/wiki/%C3%81)
 4. [a-grave](https://en.wikipedia.org/wiki/%C3%80)
 
+# Copyright notices
+
+## Source of additional icons
+
+- Camera SVG Vector image by Solar Icons, CC-SA: https://www.svgrepo.com/svg/528884/camera
+- RSS SVG Vector by SVG Repo, CC0: https://www.svgrepo.com/svg/204942/rss
+
 [^1]: [https://github.com/afulgens](https://github.com/afulgens)
 [^2]: [https://pages.github.com/](https://pages.github.com/)
 [^3]: [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)

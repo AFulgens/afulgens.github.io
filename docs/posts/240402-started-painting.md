@@ -37,11 +37,11 @@ Hence... I already have at least three projects, with an optional stuffed into t
 * (Optional) Lost Cities ([BGG Link](https://boardgamegeek.com/boardgame/42487/lost-cities-the-board-game)) – create/order minis instead of the meeples[^8] and paint them
 * and last(? hopefully not!) but not least the HoMM3BG ([BGG Link](https://boardgamegeek.com/boardgame/355326/heroes-of-might-and-magic-iii-the-board-game))
 
-[^1]: https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II
-[^2]: https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III
-[^3]: https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_IV
-[^4]: https://en.wikipedia.org/wiki/The_Settlers_II
-[^5]: https://en.wikipedia.org/wiki/Theme_Hospital
-[^6]: https://www.kickstarter.com/projects/archonstudio/homm3boardgame
-[^7]: https://en.wikipedia.org/wiki/Figure_painting_(hobby)
-[^8]: https://en.wikipedia.org/wiki/Meeple
+[^1]: [https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II)
+[^2]: [https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III)
+[^3]: [https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_IV](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_IV)
+[^4]: [https://en.wikipedia.org/wiki/The_Settlers_II](https://en.wikipedia.org/wiki/The_Settlers_II)
+[^5]: [https://en.wikipedia.org/wiki/Theme_Hospital](https://en.wikipedia.org/wiki/Theme_Hospital)
+[^6]: [https://www.kickstarter.com/projects/archonstudio/homm3boardgame](https://www.kickstarter.com/projects/archonstudio/homm3boardgame)
+[^7]: [https://en.wikipedia.org/wiki/Figure_painting_(hobby)](https://en.wikipedia.org/wiki/Figure_painting_(hobby))
+[^8]: [https://en.wikipedia.org/wiki/Meeple](https://en.wikipedia.org/wiki/Meeple)
