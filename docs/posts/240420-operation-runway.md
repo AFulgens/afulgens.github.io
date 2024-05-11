@@ -40,6 +40,8 @@ I think it was worth it.
 
 Just to be able to start from an "as clean as possible" state.
 
+_The pictures are before/after stripping the factory pre-shading._
+
 ???+ picture "Diplomat Commander"
 
     <div style="justify-content: center; display: flex;">
@@ -82,7 +84,7 @@ Just to be able to start from an "as clean as possible" state.
     </div>
     </div>
 
-???+ picture "Naval Commander"
+???+ picture "Nuclear Commander"
 
     <div style="justify-content: center; display: flex;">
     <div class="comparison" onmousemove="moveDivisor(event)"
