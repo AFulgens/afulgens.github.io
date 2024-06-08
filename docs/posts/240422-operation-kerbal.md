@@ -36,7 +36,7 @@ Look at this clownfest:
     <figcaption>Clown commander #1 front/back</figcaption>
 </figure>
 
-OK, I have realized pretty quickly that I will scratch these minis, so I decided to experiment randomly further. Et voilà:
+OK, I have realized pretty quickly that I will scrap these minis and start from scratch, so I decided to experiment randomly further. Et voilà:
 
 <figure markdown="span" style="text-align: center; width: 87%;">
     ![](../../../../images/240422-operation-kerbal/space-kerbal-3.jpg){ width="43%" }
