@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Simple Analytics</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      /* Basics */
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+      body {
+        background: #eef9ff;
+        word-break: break-word;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #415659;
+        font-family: "Space Grotesk", Arial, sans-serif;
+        font-weight: 400;
+      }
+      * {
+        box-sizing: border-box;
+      }
+
+      /* Fonts */
+      @font-face {
+        font-family: "Space Grotesk";
+        font-weight: 500;
+        src: url("https://assets.simpleanalytics.com/fonts/SpaceGrotesk-Medium.woff2")
+            format("woff2"),
+          url("https://assets.simpleanalytics.com/fonts/SpaceGrotesk-Medium.woff")
+            format("woff");
+      }
+      @font-face {
+        font-family: "Space Grotesk";
+        font-weight: 400;
+        src: url("https://assets.simpleanalytics.com/fonts/SpaceGrotesk-Regular.woff2")
+            format("woff2"),
+          url("https://assets.simpleanalytics.com/fonts/SpaceGrotesk-Regular.woff")
+            format("woff");
+      }
+      h1,
+      h2,
+      h3,
+      h4 {
+        margin: 0 0 1rem 0;
+        line-height: 1.5;
+        font-weight: 500;
+      }
+      p {
+        font-size: 1rem;
+        line-height: 150%;
+      }
+      a {
+        color: #415659;
+      }
+      a:hover {
+        text-decoration: none;
+      }
+
+      /* Layouts */
+      main {
+        padding: 2rem;
+        flex: 0 1 auto;
+        text-align: center;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        body {
+          background: #2a3638;
+        }
+        body,
+        a {
+          color: #a4bdc0;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <svg
+        width="100px"
+        height="100px"
+        enable-background="new 0 0 100 100"
+        fill="#ff4f64"
+        version="1.0"
+        viewBox="0 0 100 100"
+        xml:space="preserve"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect x="20" y="53" width="10" height="30" />
+        <rect x="44" y="35" width="10" height="48" />
+        <rect x="68" y="18" width="10" height="65" />
+      </svg>
+      <h2>Oops, not found</h2>
+      <p>This file should be hosted here on Bunny CDN.</p>
+    </main>
+  </body>
+</html>
+

@@ -1,0 +1,96 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "YAB (Yet Another \u03b2log)",
+    "home_page_url": "https://blog.kovacs.xyz/",
+    "feed_url": "https://blog.kovacs.xyz/feed_json_created.json",
+    "description": "Personal \u03b2log",
+    "icon": null,
+    "authors": [],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://blog.kovacs.xyz/2024/06/09/operation-allen/",
+            "url": "https://blog.kovacs.xyz/2024/06/09/operation-allen/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Operation: Allen",
+            "content_html": "Third miniature being painted",
+            "image": null,
+            "date_published": "2024-06-09T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "afulgens"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://blog.kovacs.xyz/2024/04/23/operation-dory/",
+            "url": "https://blog.kovacs.xyz/2024/04/23/operation-dory/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Operation: Dory",
+            "content_html": "Second miniature being painted",
+            "image": null,
+            "date_published": "2024-04-23T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "afulgens"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://blog.kovacs.xyz/2024/04/22/operation-kerbal/",
+            "url": "https://blog.kovacs.xyz/2024/04/22/operation-kerbal/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Operation: Kerbal",
+            "content_html": "First ever miniature being painted",
+            "image": null,
+            "date_published": "2024-04-22T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "afulgens"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://blog.kovacs.xyz/2024/04/21/operation-rising-to-the-zenith/",
+            "url": "https://blog.kovacs.xyz/2024/04/21/operation-rising-to-the-zenith/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Operation: Rising to the Zenith",
+            "content_html": "Applying zenith priming to Risk 2210 A.D. miniatures",
+            "image": null,
+            "date_published": "2024-04-21T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "afulgens"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://blog.kovacs.xyz/2024/04/20/operation-runway-strip/",
+            "url": "https://blog.kovacs.xyz/2024/04/20/operation-runway-strip/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Operation: Runway strip",
+            "content_html": "Strip pre-shading from Risk 2210 A.D. commander miniatures",
+            "image": null,
+            "date_published": "2024-04-20T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "afulgens"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://blog.kovacs.xyz/2024/04/02/starting-a-new-hobby-miniature-painting/",
+            "url": "https://blog.kovacs.xyz/2024/04/02/starting-a-new-hobby-miniature-painting/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Starting a new hobby: Miniature painting",
+            "content_html": "How and why I start a new hobby",
+            "image": null,
+            "date_published": "2024-04-02T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "afulgens"
+                }
+            ],
+            "tags": null
+        }
+    ]
+}

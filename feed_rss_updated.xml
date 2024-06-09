@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>YAB (Yet Another βlog)</title>
+    <description>Personal βlog</description>
+    <link>https://blog.kovacs.xyz/</link>
+    <atom:link href="https://blog.kovacs.xyz/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    
+    <docs>https://github.com/AFulgens/afulgens.github.io</docs>
+    <language>en</language>
+
+    
+    <pubDate>Sun, 09 Jun 2024 09:10:57 -0000</pubDate>
+    <lastBuildDate>Sun, 09 Jun 2024 09:10:57 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.12.1</generator>
+
+    
+    
+
+    
+    
+    <item>
+      <title>Operation: Allen</title>
+      
+      
+        
+      <author>afulgens</author>
+        
+      
+      
+      
+      <description>Third miniature being painted</description>
+      <link>https://blog.kovacs.xyz/2024/06/09/operation-allen/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 09 Jun 2024 09:10:57 +0000</pubDate>
+      <source url="https://blog.kovacs.xyz/feed_rss_updated.xml">YAB (Yet Another βlog)</source>
+      
+      <guid isPermaLink="true">https://blog.kovacs.xyz/2024/06/09/operation-allen/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Operation: Dory</title>
+      
+      
+        
+      <author>afulgens</author>
+        
+      
+      
+      
+      <description>Second miniature being painted</description>
+      <link>https://blog.kovacs.xyz/2024/04/23/operation-dory/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 09 Jun 2024 09:10:57 +0000</pubDate>
+      <source url="https://blog.kovacs.xyz/feed_rss_updated.xml">YAB (Yet Another βlog)</source>
+      
+      <guid isPermaLink="true">https://blog.kovacs.xyz/2024/04/23/operation-dory/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Operation: Kerbal</title>
+      
+      
+        
+      <author>afulgens</author>
+        
+      
+      
+      
+      <description>First ever miniature being painted</description>
+      <link>https://blog.kovacs.xyz/2024/04/22/operation-kerbal/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 09 Jun 2024 09:10:57 +0000</pubDate>
+      <source url="https://blog.kovacs.xyz/feed_rss_updated.xml">YAB (Yet Another βlog)</source>
+      
+      <guid isPermaLink="true">https://blog.kovacs.xyz/2024/04/22/operation-kerbal/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Operation: Rising to the Zenith</title>
+      
+      
+        
+      <author>afulgens</author>
+        
+      
+      
+      
+      <description>Applying zenith priming to Risk 2210 A.D. miniatures</description>
+      <link>https://blog.kovacs.xyz/2024/04/21/operation-rising-to-the-zenith/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 09 Jun 2024 09:10:57 +0000</pubDate>
+      <source url="https://blog.kovacs.xyz/feed_rss_updated.xml">YAB (Yet Another βlog)</source>
+      
+      <guid isPermaLink="true">https://blog.kovacs.xyz/2024/04/21/operation-rising-to-the-zenith/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Operation: Runway strip</title>
+      
+      
+        
+      <author>afulgens</author>
+        
+      
+      
+      
+      <description>Strip pre-shading from Risk 2210 A.D. commander miniatures</description>
+      <link>https://blog.kovacs.xyz/2024/04/20/operation-runway-strip/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 09 Jun 2024 09:10:57 +0000</pubDate>
+      <source url="https://blog.kovacs.xyz/feed_rss_updated.xml">YAB (Yet Another βlog)</source>
+      
+      <guid isPermaLink="true">https://blog.kovacs.xyz/2024/04/20/operation-runway-strip/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Starting a new hobby: Miniature painting</title>
+      
+      
+        
+      <author>afulgens</author>
+        
+      
+      
+      
+      <description>How and why I start a new hobby</description>
+      <link>https://blog.kovacs.xyz/2024/04/02/starting-a-new-hobby-miniature-painting/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 09 Jun 2024 09:10:57 +0000</pubDate>
+      <source url="https://blog.kovacs.xyz/feed_rss_updated.xml">YAB (Yet Another βlog)</source>
+      
+      <guid isPermaLink="true">https://blog.kovacs.xyz/2024/04/02/starting-a-new-hobby-miniature-painting/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
